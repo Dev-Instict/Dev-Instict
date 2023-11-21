@@ -8,7 +8,7 @@
 <h3>Sobre mim</h3><br>
   <p>Eu sou uma pessoa que busca evoluir profissionalmente e ingressar na área da programação web, tenho conhecimentos em algumas tecnologias e desejo aprender cada vez mais, sou uma pessoa dedicada que busca um futuro profissional sólido</p>
   </br>
-
+/*
 <div>
     <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula "
@@ -20,7 +20,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=dev-instict&show_icons=true" />
 </div>
-
+*/
 <h3>Habilidades</h3><br>
 
 <div style="display: inline-block">
