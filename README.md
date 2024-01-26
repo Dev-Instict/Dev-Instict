@@ -1,15 +1,15 @@
-### Olá, Sou Felipe Victor ✌ 
+### Hello, I'm Felipe Victor ✌ 
 </br>
 
-- 🔥 Amante da tecnologia
-- 📚 Futuro programador front-end
-- 🎙 A música é a minha terapia mental
+- 🔥 love tecnology
+- 📚 Test Analist/Q.A
+- 🎙 The music is my therapy
 
-<h3>Sobre mim</h3><br>
-  <p>Eu sou uma pessoa que busca evoluir profissionalmente e ingressar na área da programação web, tenho conhecimentos em algumas tecnologias e desejo aprender cada vez mais, sou uma pessoa dedicada que busca um futuro profissional sólido</p>
+<h3>About me</h3><br>
+  <p>I'm a person who seeks to evolve professionally and enter the programming area with a focus on Q.A, I have knowledge in some technologies and wish to learn more and more, I am a dedicated person who seeks a solid professional future</p>
   </br>
 
-<h3>Habilidades</h3><br>
+<h3>Skills</h3><br>
 
 <div style="display: inline-block">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -24,15 +24,15 @@
 </div>
 
 ##
-<h3>Formação</h3><br>
+<h3>Education</h3><br>
 
- - 🏫 Graduado em Sistemas de informação no Centro Universitário FAM
- - 👩‍💻 Sempre aprendendo novas tecnologias por meio de cursos online
- - 💻 Curso profinalizante em informática
- - ⚙ Curso profinalizante em hardware
+ - 🏫 Graduated in Information Systems at Centro Universitário FAM
+ - 👩‍💻 Always learning new technologies through online courses
+ - 💻 Professional IT course
+ - ⚙ Professional hardware course
 
 ##
-<h3>Contato</h3><br>
+<h3>Contact</h3><br>
 
 <div> 
   <a href="https://dev-instict.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a> 
