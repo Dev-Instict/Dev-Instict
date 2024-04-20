@@ -1,6 +1,9 @@
 ### Hello, I'm Felipe Victor ✌ 
 </br>
 
+<img align="center" height="200" width="400" src="https://media1.tenor.com/m/LEt4EGx11lsAAAAC/dog-quality-assurance.gif"/>
+</br>
+
 - 🔥 love tecnology
 - 📚 Test Analist/Q.A
 - 🎙 The music is my therapy
@@ -20,7 +23,7 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </div>
 
 ##
